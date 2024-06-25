@@ -1,0 +1,1 @@
+# lamda-go-sample
